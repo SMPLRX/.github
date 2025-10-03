@@ -28,4 +28,4 @@ SMPLRX is a modular ecosystem for audio creators and developers, offering open-s
 
 ## 🤝 Contributing
 
-We welcome collaboration! See [CONTRIBUTING.md](CONTRIBUTING.md).
+We welcome collaboration! See [CONTRIBUTING.md](../CONTRIBUTING.md).
