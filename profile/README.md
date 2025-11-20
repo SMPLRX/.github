@@ -7,18 +7,15 @@ SMPLRX is a modular ecosystem for audio creators and developers, offering open-s
 ## 📦 Applications
 
 - 🔒 SMPLRX Plugin
+- 🔒 SMPLRX Web App
 - 🔒 SMPLRX Desktop App
-- 🔒 SMPLRX Mobile App
+- 🔒 SMPLRX Companion
 
 ## 🔧 Tools
 
 - [smplrx-classifier](https://github.com/smplrx/smplrx-classifier) – Loop vs. One-shot classification
 - [smplrx-tagger](https://github.com/smplrx/smplrx-tagger) – Multi-label tagging
 - [smplrx-generator](https://github.com/smplrx/smplrx-generator) – Human-in-the-loop labeling interface
-
-## 💻 Other Repositories
-
-- [smplrx-web](https://github.com/smplrx/smplrx-web) - SMPLRX Site Repository &nbsp;&nbsp;&nbsp; [![Netlify Status](https://api.netlify.com/api/v1/badges/2f3bbbe8-2496-4891-a76e-8dcaea9188d7/deploy-status)](https://app.netlify.com/sites/smplrx/deploys)
 
 ## 🧠 Philosophy
 
